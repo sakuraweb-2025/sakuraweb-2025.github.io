@@ -392,22 +392,6 @@
             display: grid;
             grid-template-columns: 1fr 1fr;
             gap: 60px;
-<<<<<<< HEAD
-            margin: 60px 60px;
-        }
-
-        .contact-info h3 {
-            font-size: 1.8rem;
-            margin-bottom: 20px;
-            color: #e8a298;
-            text-align: left;
-        }
-
-        .contact-item {
-            display: flex;
-            align-items: left;
-            margin-bottom: 20px;
-=======
             margin: 50px 50px;
             align-items: center;
         }
@@ -434,17 +418,12 @@
         .contact-item a {
             color: white;
             text-decoration: none;
->>>>>>> baf8de8 (初回の更新)
         }
 
         .contact-icon {
             width: 50px;
             height: 50px;
-<<<<<<< HEAD
-            background: #d4716b;
-=======
             background-color: #d4716b;
->>>>>>> baf8de8 (初回の更新)
             border-radius: 50%;
             display: flex;
             align-items: center;
