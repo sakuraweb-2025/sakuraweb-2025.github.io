@@ -415,6 +415,10 @@
             word-break: break-word;
         }
 
+        .contact-item span a {
+            text-decoration: underline;
+        }
+
         .contact-item a {
             color: white;
             text-decoration: none;
